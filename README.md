@@ -1,5 +1,5 @@
 ## これは何
-Vue.js,Vuetifyで作ってみたポートフォリオらしきものを
+Vue.js,Vuetifyで作ってみたポートフォリオらしきものを  
 npmでビルドしてGitHub Pagesで公開してみたらしいっすよ
 
 ## Access
