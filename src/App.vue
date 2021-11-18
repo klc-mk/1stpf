@@ -47,7 +47,7 @@ export default {
     let xiv = new ContentData('XIV','fa fa-meteor','FINAL FANTASY XIV','5.5済 まったりプレイ',[]);
 
     let iidx = new ContentData('IIDX','fa fa-compact-disc','beatmaniaIIDX','SP中伝(ほんまか？)',[]);
-    let ppn = new ContentData('POPN','9','pop\'n music','50クリア:トイエンカウ 休止中',[]);
+    let ppn = new ContentData('POPN','9','pop\'n music','50クリア:トイエンカウ 最近ほぼやってない･･･',[]);
     let sdvx = new ContentData('SDVX','fas fa-bolt','SOUND VOLTEX','銀枠暴龍天(Xronièr回まぢむり)',[]);
     let mg = new ContentData('MG','fa fa-music','Music Game','',[iidx,ppn,sdvx]);
 
