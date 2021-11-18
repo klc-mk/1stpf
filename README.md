@@ -1,24 +1,4 @@
-# hello-vuetify
-
-## Project setup
+## Access
 ```
-npm install
+https://klc-mk.github.io/1stpf/
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
